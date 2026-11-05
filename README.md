@@ -7,4 +7,4 @@ If you want to "try" Ruster Linux on your existing Void install, you can downloa
 
 Most probably that the entire main / of Ruster will be here, so it will be confirmed that the installer will extract the tar.zst from the releases branch.
 
-This is the unstable branch that isn't compressed into a .tar.zst so you'll have to git clone this and compress it into a tar.zst
+This is the unstable branch that isn't compressed into a .tar.zst so you'll have to git clone this and compress it into a tar.zst.
